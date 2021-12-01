@@ -1,0 +1,4 @@
+apiVersion: v2
+description: Basic test with image that has a vuln
+name: artifacthib-scanner-test
+version: 1.0.0
