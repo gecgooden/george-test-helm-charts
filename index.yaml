@@ -2,6 +2,14 @@ apiVersion: v1
 entries:
   artifacthub-scanner-test:
   - apiVersion: v2
+    created: "2021-12-01T11:28:45.878150707Z"
+    description: Basic test with image that has a vuln
+    digest: 0ef5b7f7eaaee0cfbb0b5e542cb4e1bfea6ddba4e9482888f32ece49264d8fb1
+    name: artifacthub-scanner-test
+    urls:
+    - https://github.com/gecgooden/george-test-helm-charts/releases/download/artifacthub-scanner-test-1.0.4/artifacthub-scanner-test-1.0.4.tgz
+    version: 1.0.4
+  - apiVersion: v2
     created: "2021-12-01T10:52:37.555338413Z"
     description: Basic test with image that has a vuln
     digest: 267f7402b36b518f43da84628979ba540c563b50dc3bef00727db7088be15b15
@@ -25,4 +33,4 @@ entries:
     urls:
     - https://github.com/gecgooden/george-test-helm-charts/releases/download/artifacthub-scanner-test-1.0.1/artifacthub-scanner-test-1.0.1.tgz
     version: 1.0.1
-generated: "2021-12-01T10:52:37.555351114Z"
+generated: "2021-12-01T11:28:45.878166307Z"
