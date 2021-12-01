@@ -1,4 +1,4 @@
 apiVersion: v2
 description: Basic test with image that has a vuln
 name: artifacthub-scanner-test
-version: 1.0.2
+version: 1.0.3
